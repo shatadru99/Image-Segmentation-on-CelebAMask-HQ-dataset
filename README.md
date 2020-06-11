@@ -1,2 +1,3 @@
 # Image-Segmentation-on-CelebAMask-HQ-dataset
-Performing Image Segmentation using U-Net to detect facial features like, eyes, lips, ears
+Applied a U-Net architecture to perform image segmentation.
+I trained on Google Colab. Due to lack of computational resources, I only trained on 685 images.
